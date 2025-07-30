@@ -4,11 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e51eb153-423f-4ac2-b3cc-867c0a8454e1" name="Changes" comment="TicTacToe Completed" />
+    <list default="true" id="e51eb153-423f-4ac2-b3cc-867c0a8454e1" name="Changes" comment="TicTacToe Completed">
+      <change afterPath="$PROJECT_DIR$/src/snakegame/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snakegame/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snakegame/GameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snakegame/Snake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snakegame/SnakeGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+      <option value="repository" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -20,9 +34,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="30aIVv97jGLlMTatF248D63BAYo" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -34,6 +48,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.SnakeGame.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -64,7 +79,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1753859283630</updated>
-      <workItem from="1753859284837" duration="2834000" />
+      <workItem from="1753859284837" duration="4834000" />
+      <workItem from="1753875662708" duration="597000" />
+      <workItem from="1753876528321" duration="1972000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -90,7 +107,23 @@
       <option name="project" value="LOCAL" />
       <updated>1753862126369</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="TicTacToe Completed">
+      <option name="closed" value="true" />
+      <created>1753862189693</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1753862189693</updated>
+    </task>
+    <task id="LOCAL-00005" summary="TicTacToe Completed">
+      <option name="closed" value="true" />
+      <created>1753862467046</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1753862467046</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,7 +134,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
